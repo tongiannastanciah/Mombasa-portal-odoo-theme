@@ -1,0 +1,1 @@
+"# Mombasa-portal-odoo-theme" 
